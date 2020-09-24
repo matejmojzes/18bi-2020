@@ -25,14 +25,15 @@ Selected aspects of [Business Intelligence](https://en.wikipedia.org/wiki/Busine
 * how to store data in a way that allows for their quick analysis ([OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing), and other types of analytical databases),
 * what is reporting and how to practically approach it,
 * how to efficiently perform ad-hoc data analysis, and 
-* mine knowledge out of data.
+* mine knowledge out of raw data.
+
+We will talk about best practices in how this is done on enterprise level, and try it out using open-source tools, which can be useful in your everyday tasks immediately.
 
 
 ### What prerequisite skills are recommended?
 
-* The most important is SQL
-* For data analysis: [Python](https://www.stat.washington.edu/~hoytak/blog/whypython.html), R
-* For fast and big data processing: Java, Scala
+* Probably the most important is **SQL**
+* For research, data analysis and engineering: **Python**
 
 Note: We will learn a bit about them throughout the semester.
 
@@ -62,6 +63,4 @@ Let me answer your questions right away. Should you forget, please post the ques
 
 ## So what do we do today?
 
-First of all, **send me your e-mail address**, so that I can keep you posted on any important organizational news.
-
-And then... **let's talk**! I would like to know something about your motivation, experience, what you are interested in. It will help me to personalize the course.
+**Let's talk**! I would like to understand your motivation, experience, what exactly you are interested in. It will help me to personalize the course.
