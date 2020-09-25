@@ -35,7 +35,7 @@ We will talk about best practices in how this is done on enterprise level, and t
 * Probably the most important is **SQL**
 * For research, data analysis and engineering: **Python**
 
-Note: We will learn a bit about them throughout the semester.
+Note: We will learn a bit about them throughout the semester. Also, Microsoft SQL Server Enterprise scholar license should be available for our students, if interested.
 
 
 ### Why do you teach it?
