@@ -58,7 +58,7 @@ See the problem?
 
 ### 3. Perform a pivot table analysis on your own data set
 
-If you do not have nothing ready available, take a look at the following collection of data sets: [UCI ML repo data sets](https://archive.ics.uci.edu/ml/datasets.html), e.g. [Auto MPG](https://archive.ics.uci.edu/ml/datasets/Auto+MPG).
+If you do not have nothing ready available, take a look at the following collection of data sets: [UCI ML repo data sets](https://archive.ics.uci.edu/ml/datasets.php), e.g. [Auto MPG](https://archive.ics.uci.edu/ml/datasets/Auto+MPG).
 
 Be sure to save the file somewhere also for the next lecture. 
 
