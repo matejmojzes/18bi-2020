@@ -15,11 +15,13 @@ _October 30 2020_
    2. [CO2 (ppm) mauna loa](https://datahub.io/core/co2-ppm)
    3. [Mean daily temperature, Fisher River near Dallas](https://github.com/PacktPublishing/Practical-Time-Series-Analysis/blob/master/Data%20Files/mean-daily-temperature-fisher-river.xlsx)
    4. [Monthly car sales in Quebec 1960-1968](https://github.com/jbrownlee/Datasets/blob/master/monthly-car-sales.csv)
-2. Load and inspect the data. Remember to take care of missing data, measurements in non-fixes intervals, etc. Pandas provide robust resources for these tasks, see the [time series documentation](https://pandas.pydata.org/pandas-docs/stable/timeseries.html).
-3. Using a model of your choice (e.g. regression analysis, ARIMA, neural networks, ... use Google, chances are it is already implemented in Python) predict a selected time frame and compare the result of the model with reality.
+2. Load and inspect the data. Remember to take care of missing data, measurements in non-fixes intervals, etc. Pandas provide robust resources for these tasks, see the [time series documentation](https://pandas.pydata.org/pandas-docs/stable/timeseries.html). **Write down you conclusions regarding the dataset itself, and any notes regarding the process of getting to them, which may be interesting to others in the class and/or future you!**
+3. **Optional**: Using a model of your choice (e.g. regression analysis, ARIMA, neural networks, ... use Google, chances are it is already implemented in Python) predict a selected time frame and compare the result of the model with reality.
 
 Example:
 ![Anomaly detection simulation example](files/anomaly_detection_example.png)
+
+Please note that this plot would be much better and error-proof if there would be dots for actual data points, instead of just line plot (e.g. `style='.-'`).
 
 Last, but not least, *add your results to this repository* via [pull request](https://help.github.com/articles/about-pull-requests/). 
 The pull request should consist of ideally two files:
